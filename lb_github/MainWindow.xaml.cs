@@ -24,5 +24,6 @@ namespace lb_github
         {
             InitializeComponent();
         }
+        int a;
     }
 }
